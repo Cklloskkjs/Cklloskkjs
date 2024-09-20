@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+    <title>the one piece</title>
+</head>
+
+<body>
+    <h1>one</>
+    <h4>piece</h4>
+    <form>
+         e-mail ou telefone <br>
+         <input typer="text><br>
+         senha <br>
+         <input typer="password"><br>
+         <button>entrar</button>
+          Esqueceu a Senha 
+         <button> criar nova conta </button>
+     </form>
+</body>
+
+</html>
